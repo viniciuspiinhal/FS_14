@@ -2,7 +2,7 @@
 // Atividade online # 2
 
 let idade = 20 // idade minima 18 
-let numeroParticipantes = 40 // numero maximo participantes 100
+let numeroParticipantes = 99 // numero maximo participantes 100
 const dataHoje = new Date() // data UTC local
 let dataEvento = new Date(2022,9,8) // data do evento
 let palestrantes = ['Doutor', 'Mestre', 'Especialista', 'Graduado', 'Técnico'] // array lista de palestrantes
@@ -14,7 +14,7 @@ if (idade >= 18) {
         if (dataEvento > dataHoje) {
             console.log("A data do evento é permitida")
             
-            if (numeroParticipantes <99) {
+            if (numeroParticipantes <= 99) {
                 console.log("Inscrição realizada")
                 console.log ("Os palestrantes do evento são: " + palestrantes)
                 console.log ("Os participantes do evento são: " + participantes)
