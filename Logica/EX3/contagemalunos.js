@@ -33,7 +33,7 @@
 // escreve par e o numero correspondente
 
 let numeroDeAlunos =["a","b","c",'d',"e"]  
-for (let contador = 0; contador < numeroDeAlunos.length; contador++) {
+for (let contador = 0; contador < numeroDeAlunos.length; contador++) { // metodo 1
  
     if (contador == 0){
     console.log("Zero")
@@ -46,3 +46,7 @@ for (let contador = 0; contador < numeroDeAlunos.length; contador++) {
     }   
 
 }
+
+numeroDeAlunos.forEach(cadaItem => { // metodo 2 
+        console.log(cadaItem)
+})
