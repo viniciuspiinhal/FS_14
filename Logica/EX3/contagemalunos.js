@@ -1,4 +1,5 @@
-let numeroDeAlunos =["a","b","c",'d',"e"]  
+let numeroDeAlunos =["a","b","c",'d',"e"] 
+ 
 for (let contador = 0; contador < numeroDeAlunos.length; contador++) { // metodo 1
  
     if (contador == 0){
@@ -10,7 +11,7 @@ for (let contador = 0; contador < numeroDeAlunos.length; contador++) { // metodo
     } else {
         console.log(`O numero ${contador} é impar`)
     }   
-
+    
 }
 
 numeroDeAlunos.forEach(cadaItem => { // metodo 2 
