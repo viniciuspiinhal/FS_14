@@ -14,15 +14,15 @@
     <h1> Home - E-Players </h1>
     <header>    
         <div class="container_grid cabecalho_alinhamento">
-            <a href=""> <img src="./img/logo.png" alt="Logo E-players"></a>
-            <nav class="menu">
+            <a href=""> <img class="logo" src="./img/logo.png" alt="Logo E-players"></a>
+            <nav id="menu" class="menu">
                 <a href="">Início</a>
                 <a href="">Horários</a>
                 <a href="">Campeonatos</a>
                 <a href="">Resultados</a>
                 <a href="">Notícias</a>
             </nav>
-            <a class="barras" href=""> <i class="fa-solid fa-bars"></i> </a>
+            <a onclick="mostrarMenu()" class="barras" href=""> <i class="fa-solid fa-bars"></i> </a>
         </div>
     </header>
     
@@ -48,8 +48,9 @@
     </section>
 
     <section class="ofertas">
-        <h2> Ofertas</h2>
-        <div class="container_grid alinhar_cards">
+        <div class="container_grid">
+            <h2> Ofertas</h2>
+            <div class="secao_cards">
             <div class="card">
                 <img src="./img/card.png" alt="">
                 <h3>Título do jogo</h3>
@@ -113,10 +114,24 @@
                 <p> R$ 100,00</p>
                 <a href=""> Comprar </a>
             </div>
-
+        </div>
         </div>
     </section>
     
+    <script>
+        let menu = document.getElementById("menu");
+
+        function mostrarMenu(){
+
+            if (window.getComputedStyle(menu).display != "flex") {
+                menu.style.display = "flex"
+            } else {
+                menu.style.display = "none"
+            }
+            event.preventDefault();
+        }
+    </script>
+
 </body>
 
 </html>
