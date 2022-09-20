@@ -118,22 +118,27 @@ header {
 
 .card {
     width: 215px;
-    display: flex;
     margin: 20px;
     background-color: #1E1C21;
     color: #fff;
     border-color: rgb(190, 184, 184);
+    box-shadow: 0px 0px 50px black;
 
 }
 
 .card a {
     padding: 10px;
+    margin: 15px;
     background-color: #C31616;
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
     text-align: center; 
+    border-radius: 10px;
 
+}
+.card *:not(:first-child){
+    margin: 5px 10px;
 }
 
 .ofertas {
@@ -146,6 +151,21 @@ header {
     margin-left: 80px;
 }
 
+<<<<<<< HEAD
+footer{
+    background-color: black;
+
+}
+
+.rodape{
+    display: flex;
+}
+
+.links_footer{
+    display: flex;
+}
+
+=======
 .secao_ligas {
     background-image: 
     url(../img/fx_preto.png),
@@ -225,10 +245,12 @@ a .legends {
 
 
 
+>>>>>>> 9e0b49dcbd683f30830346b773067febc5174c1c
 @media screen and (max-width: 1100px){
 
 .menu {
     width: 550px;
+    
         
 }
 .menu a {
@@ -307,6 +329,36 @@ a .legends {
 
 @media screen and (max-width: 768px){
 
+<<<<<<< HEAD
+    .cabecalho_alinhamento
+    {
+        position:relative;  
+
+    }
+    .menu {
+        display:none;
+        flex-direction: column;
+        position: absolute;
+        right: 0px;
+        width: 130px;
+        top: 70px;
+        background-color: #1e1c21eb;
+        border-radius: 10px;
+        box-shadow: 0px 0px 30px black;
+    }
+
+    .menu a {
+        margin: 5px 10px 5px 5  px;
+        margin-bottom: 20px;
+        text-align: end;
+        font-weight: 400px;
+
+    }
+    .barras {
+        display:flex;
+    }
+}
+=======
     .cabecalho_alinhamento{
         position: relative;
 
@@ -344,3 +396,4 @@ a .legends {
     a .legends {
         display: none;
     }
+>>>>>>> 9e0b49dcbd683f30830346b773067febc5174c1c
