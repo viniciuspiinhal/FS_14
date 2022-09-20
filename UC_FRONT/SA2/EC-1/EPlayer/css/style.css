@@ -147,11 +147,12 @@ header {
 }
 
 .secao_ligas {
-    background-image: url(../img/img_fundo.png);
-    height: 490px;
+    background-image: 
+    url(../img/fx_preto.png),
+    url(../img/img_fundo.png);
+    height: 650px;
     background-repeat: none;
     background-size: cover;
-
 }
 
 .img_escuro {
@@ -165,17 +166,25 @@ header {
 
 .texto_ligas {
     color: #fff;
-
 }
 
 .texto_ligas h2 {
     text-align: center;
-    padding: 30px;
+    font-size: 40px;
+    padding-top: 80px;
+    padding-bottom: 30px;
 }
 
 .texto_ligas p {
     text-align: justify;
+    font-size: 20px;
     margin: 10px;
+}
+
+a .legends {
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 660px;
 }
 
 
@@ -232,20 +241,33 @@ header {
     margin-right: 20px;
 }
 
+.secao_ligas {
+    background-image: 
+    url(../img/fx_preto.png),
+    url(../img/img_fundo.png);
+    height: 400px;
+    background-repeat: none;
+    background-size: cover;
+
+}
+
 .texto_ligas h2 {
     font-size: 18px;
     padding: 15px;
+    padding-top: 50px;
+    padding-bottom: 15px;
 }
 
 
 .texto_ligas p {
     text-align: justify;
-    font-size: 14px;
-    margin: 10px;
+    font-size: 12px;
+    margin: 8px;
 }
 
 a .legends {
     width: 400px;
+    padding-top: 40px;
 }
 
 
@@ -304,11 +326,19 @@ a .legends {
     }
 
     .secao_ligas {
-        background-image: url(../img/img_fundo.png);
+        background-image: 
+        url(../img/fx_preto.png),
+        url(../img/img_fundo.png);
         height: 300px;
         background-repeat: none;
         background-size: cover;
 
+    }
+
+    .texto_ligas p {
+        text-align: justify;
+        font-size: 10px;
+        margin: 8px;
     }
 
     a .legends {
