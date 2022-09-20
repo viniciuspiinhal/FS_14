@@ -160,10 +160,6 @@ header {
     background-size: cover;
 }
 
-.img_escuro {
-    width: 100%;
-}
-
 .ligas {
     display: flex;
     justify-content: space-around;
@@ -192,10 +188,76 @@ a .legends {
     width: 660px;
 }
 
+.rodape {
+    background-color: #000;
+    height: 300px;
+}
 
+.listas {
+    display: flex;
+    justify-content: column;
+    flex: wrap;
+}
 
+.links_uteis {
+    padding-top: 30px;
+    padding-right: 30px; 
+    width: 400px;
+}
 
+.links_uteis h2 {
+    padding-top: 30px;
+    padding-right: 30px; 
+    padding-bottom: 10px;
+    font-size: 24px;
+    color: #fff;
+}
 
+.links_uteis ul li {
+    color: #fff;
+}
+
+.listas_uteis {
+    padding-top: 30px;
+    width: 300px;
+}
+
+.listas_uteis h2 {
+    padding-top: 30px;
+    padding-right: 30px; 
+    padding-bottom: 10px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.listas_uteis ul li {
+    color: #fff;
+}
+.logo_rodape {
+    width: 400px;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 120px;
+    align-items: center;
+}
+
+.midias {
+    width: 900px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.midias h3 {
+    padding-top: 30px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.midias h4 {
+    padding-top: 30px;
+    font-size: 24px;
+    color: #fff;
+}
 
 
 
@@ -309,22 +371,30 @@ a .legends {
 
 
 
+
 }
 
 @media screen and (max-width: 768px){
 
     .cabecalho_alinhamento{
         position: relative;
-
-
     }
 
     .menu {
         display:none;
         flex-direction: column;
-        width: 100px;
+        width: 150px;
         position: absolute;
         right: 50px;
+        bottom: -100px;
+        padding: 20px 20px 20px 20px;
+        background-color:rgba(255, 60, 60, 0.616);
+
+    }
+
+    .menu a {
+        color: #fff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     .barras {
