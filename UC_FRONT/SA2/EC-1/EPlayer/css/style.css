@@ -270,18 +270,35 @@ button.btn.btn-primary {
     width: 148px;
 }
 
+.loguim{
+    background-color: aqua;
+}
 
 
+.faca_login{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
 
+.butoes {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
 
+.input_email {
+    margin-bottom: 20px;
+}
 
+.input_senha {
+    margin-bottom: 20px;
+}
 
-
-
-
-
-
-
+.mandar_login {
+    background-color: #C31616;
+}
 
 
 
