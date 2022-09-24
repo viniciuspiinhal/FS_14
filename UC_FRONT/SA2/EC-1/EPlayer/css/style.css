@@ -286,7 +286,9 @@ button.btn.btn-primary {
     display: flex;
     flex-direction: column;
     background-color: aqua;
+    padding-bottom:30px;
 }
+
 
 .input_email {
     margin-bottom: 20px;
@@ -298,6 +300,7 @@ button.btn.btn-primary {
 
 .mandar_login {
     background-color: #C31616;
+    padding-bottom: 60px;
 }
 
 
