@@ -6,3 +6,10 @@
             menu.style.display = "none"
         }
     }
+
+    function mostrarLogin(){
+
+        
+
+
+    }
