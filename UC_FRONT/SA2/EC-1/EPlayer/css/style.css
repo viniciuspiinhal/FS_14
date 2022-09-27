@@ -264,70 +264,36 @@ a .legends {
     width: 320px;
     display: flex;
     align-items: column;
+    margin-top: 10px;
 }
+
+.form-control{
+    margin-top: 10px;
+}
+
 
 button.btn.btn-primary {
     width: 200px;
+    margin-top: 10px;
 }
 
-.loguim {
+.container-grid {
     display: flex;
-    flex-direction: column;
-    align-content: center;
-
-}
-
-.faca_login{
-    display: flex;
-    justify-content: center;
-    padding-top: 5%;
-}
-
-.butoes {
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
-    display: flex;
-    flex-direction: column;
-    padding-bottom:30px;
 }
 
-.butoes p {
-    font-size: 26px;
-    color: #ffffff;
-    font-style: oblique;
+.login-inputs{
+    background-color: #00000030;
+    padding: 150px;
+    width: 100%;
 }
 
-.butoes .p {
-    font-size: 26px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.login-redes-sociais{
+    width: 10px;
+    height: 10px;
 }
-
-.input_email {
-    margin-bottom: 20px;
-}
-
-.input_senha {
-    margin-bottom: 20px;
-}
-
-.mandar_login {
-    background-color: #C31616;
-    padding-top: 60px;
-}
-
-.login_redes_sociais {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 60px;
-}
-
-.login_redes_sociais img {
-    width: 5%;
-    padding-left: 10px;
-    margin: 10px;
-    background-color: rgba(18, 17, 17, 0.222);
-}
-
-
 
 
 

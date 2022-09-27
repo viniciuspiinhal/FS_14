@@ -12,42 +12,52 @@
     <script defer src="./script/script.js"></script> 
 
 </head>
-<body class="p-3 m-0 border-0 bd-example">
-    <h1> Home - E-Players </h1>
-    <header>    
-        <div class="container_grid cabecalho_alinhamento">
-            <a href=""> <img class="logo" src="./img/logo.png" alt="Logo E-players"></a>
-            <nav id="menu" class="menu">
-                <a href="index.html">Início</a>
-                <a href="">Horários</a>
-                <a href="">Campeonatos</a>
-                <a href="">Resultados</a>
-                <a href="">Notícias</a>
-                <a href="login.html">Login</a>
-            </nav>
-            <a onclick="mostrarMenu()" class="barras" href="#"> <i class="fa-solid fa-bars"></i> </a>
-        </div>
+
+<body>
+    <header class="container-grid">
+        <a href=""> <img class="logo" src="./img/logo.png" alt="Logo E-players"></a>
+        <nav id="menu" class="menu">
+            <a href="index.html">Início</a>
+            <a href="">Horários</a>
+            <a href="">Campeonatos</a>
+            <a href="">Resultados</a>
+            <a href="">Notícias</a>
+            <a href="login.html">Login</a>
+        </nav>
     </header>
-    
-    <div class="mandar_login">
-    
-    <div class="container_grid loguim">
-        <div class="butoes"> 
-            <p> Usuário: </p>
-            <input class="input_email" type="e-mail" placeholder="nome de usuário"> 
-            <p> Senha: </p>
-            <input class="input_senha" type="password" placeholder="Digite sua senha">
-            <button type="button" class="btn btn-primary"> Entrar </button>
-        </div>
-        <div class="login_redes_sociais">
-            <img src="./img/gmail.png" alt="">
-            <img src="./img/facebook 1.png" alt="">
+
+    <div class="container-grid">
+        <div class="login-inputs">
+        <label class="input-email-senha"> E-mail </label>
+        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        <label class="input-email-senha"> Senha </label>
+        <input type="password" class="form-control" id="exampleFormControlInput1" placeholder="digite sua senha">
+        <button type="submit" class="btn btn-primary">Sign in</button>
         </div>
     </div>
 
     <footer class="rodape">
 
-        <div class="container_grid listas_login">
+        <div class="container_grid listas">
+
+            <div class="links_uteis"> 
+                <h2> Links Úteis </h2>
+                <ul class="lista_1">
+                    <li> Regras de utilização </li>
+                    <li> Suporte </li>
+                    <li> Central de Ajuda </li>
+                    <li> Contato </li>
+                </ul> </div>
+
+            <div class="listas_uteis"> 
+                <h2> Páginas </h2>
+                <ul class="lista_2">
+                    <li> Início </li>
+                    <li> Campeonatos </li>
+                    <li> Resultados </li>
+                    <li> Notícias </li>
+                    <li> Login/Cadastro </li>
+                </ul> </div>
 
             <div class="img_rodape">
                 <a href=""> <img class="logo_rodape" src="./img/logo.png" alt="Logotipo E-players"></a>
@@ -72,7 +82,8 @@
     
 
     </footer>
-
 </body>
+
+
 
 </html>
