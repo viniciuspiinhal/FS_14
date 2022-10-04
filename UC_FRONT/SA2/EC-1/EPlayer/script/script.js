@@ -8,8 +8,5 @@
     // }
 
     function mostrarMenuJQuery(){
-        $("#menu").toggle()
-        
-
-
+        $("#menu").toggle()      
     }
