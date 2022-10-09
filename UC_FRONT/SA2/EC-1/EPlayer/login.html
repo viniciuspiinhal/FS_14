@@ -28,13 +28,13 @@
 
     <div class="container-grid">
         <div class="login-inputs">
-            <div class="formulario-login">
+            <form class="formulario-login">
                 <h2> Bem-vindo, faça login para continuar </h2>
                 <label class="input-email-senha"> E-mail </label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                <input type="text" class="form-control" id="login" placeholder="name@example.com">
                 <label class="input-email-senha"> Senha </label>
-                <input type="password" class="form-control" id="exampleFormControlInput1" placeholder="digite sua senha">
-                <button type="submit" class="btn btn-primary">Sign in</button>
+                <input type="password" class="form-control" id="senha" placeholder="digite sua senha">
+                <input type="submit" onclick="logar()"  class="btn btn-primary">Sign in</input>
 
                 <div> 
                     <a class="logo-gmail" href="#"><img src="../EPlayer/img/gmail.png" alt=""></a>
@@ -45,7 +45,7 @@
                     <h3> <a href="">Cadastre-se</a> para prosseguir </h3>
                 </div>
 
-            </div>
+            </form>
     
         </div>
     </div>
