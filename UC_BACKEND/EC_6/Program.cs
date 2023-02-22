@@ -9,7 +9,7 @@ Console.Clear();
 Console.WriteLine(@$"
             =================================================
             |      Bem Vindo ao Sistema de Cadastro de      |
-            |            Pessoa Física e Jurídica           |
+            |            Pessoa Física e Jurídica          |
             =================================================
 ");
 Thread.Sleep(2000);
@@ -45,13 +45,13 @@ do
             //Console.WriteLine(novaPJ.ValidarCnpj("76773415000160"));
             //Console.WriteLine(novaPJ.ValidarCnpj("76.773.415/0001-60"));
 
-            novaPJ.nome = "Empresa Adriano Malagoli ME";
-            novaPJ.cnpj = "76.773.415/0001-60";
+            novaPJ.nome = "Empresa Particular";
+            novaPJ.cnpj = "00.000.000/0001-00";
             novaPJ.rendimento = 22600.5f;
 
-            novaEndPJ.logradouro = "Rua Niteroi";
-            novaEndPJ.numero = 180;
-            novaEndPJ.complemento = "Adriano Informatica";
+            novaEndPJ.logradouro = "Rua Particular";
+            novaEndPJ.numero = 500;
+            novaEndPJ.complemento = "Particular";
             novaEndPJ.endComercial = false;
 
             novaPJ.endereco = novaEndPJ;
@@ -74,14 +74,14 @@ do
             PessoaFisica novaPF = new PessoaFisica();
             Endereco novoEndPF = new Endereco();
 
-            novaPF.nome = "Adriano Malagoli";
-            novaPF.cpf = "2514521452";
-            novaPF.rendimento = 6600.5f;
-            novaPF.dataNasc = new DateTime(2001, 01, 01);
+            novaPF.nome = "Vinicius";
+            novaPF.cpf = "123456";
+            novaPF.rendimento = 18500.5f;
+            novaPF.dataNasc = new DateTime(2001, 17, 06);
 
-            novoEndPF.logradouro = "Rua Niteroi";
-            novoEndPF.numero = 180;
-            novoEndPF.complemento = "Senai Informatica";
+            novoEndPF.logradouro = "Rua Particular";
+            novoEndPF.numero = 704;
+            novoEndPF.complemento = "Particular";
             novoEndPF.endComercial = true;
 
             novaPF.endereco = novoEndPF;

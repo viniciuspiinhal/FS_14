@@ -3,14 +3,14 @@
 PessoaFisica novaPF = new PessoaFisica();
 Endereco novoEndPF = new Endereco();
 
-novaPF.nome = "Adriano Malagoli";
-novaPF.cpf = "2514521452";
-novaPF.rendimento = 6600.5f;
-novaPF.dataNasc = new DateTime(2001, 01, 01);
+novaPF.nome = "Vinicius Pinhal";
+novaPF.cpf = "123456";
+novaPF.rendimento = 18600.5f;
+novaPF.dataNasc = new DateTime(2001, 06, 17);
 
-novoEndPF.logradouro = "Rua Niteroi";
-novoEndPF.numero = 180;
-novoEndPF.complemento = "Senai Informatica";
+novoEndPF.logradouro = "Rua Particular";
+novoEndPF.numero = 704;
+novoEndPF.complemento = "Udi";
 novoEndPF.endComercial = true;
 
 novaPF.endereco = novoEndPF;
