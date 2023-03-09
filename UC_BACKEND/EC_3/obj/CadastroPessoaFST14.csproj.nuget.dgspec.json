@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.pinhal\\Desktop\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj": {}
+    "C:\\Users\\vinicius.pinhal\\Desktop\\Curso SENAI\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.pinhal\\Desktop\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj": {
+    "C:\\Users\\vinicius.pinhal\\Desktop\\Curso SENAI\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.pinhal\\Desktop\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.pinhal\\Desktop\\Curso SENAI\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj",
         "projectName": "CadastroPessoaFST14",
-        "projectPath": "C:\\Users\\vinicius.pinhal\\Desktop\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj",
+        "projectPath": "C:\\Users\\vinicius.pinhal\\Desktop\\Curso SENAI\\github\\FS_14\\UC_BACKEND\\EC_3\\CadastroPessoaFST14.csproj",
         "packagesPath": "C:\\Users\\vinicius.pinhal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.pinhal\\Desktop\\github\\FS_14\\UC_BACKEND\\EC_3\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.pinhal\\Desktop\\Curso SENAI\\github\\FS_14\\UC_BACKEND\\EC_3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vinicius.pinhal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vinicius.pinhal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
