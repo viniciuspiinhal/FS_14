@@ -1,0 +1,12 @@
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.exe
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\web.config
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.deps.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.runtimeconfig.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.pdb
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

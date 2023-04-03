@@ -1,0 +1,65 @@
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.exe
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.deps.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\ref\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.xml
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\ref\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\web.config
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\web.config
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.StaticWebAssets.xml
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.exe
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.deps.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.AssemblyReference.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Pack.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.Chapter.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.build.Chapter.WebApi.props
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.Chapter.WebApi.props
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.Chapter.WebApi.props
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\refint\Chapter.WebApi.dll
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Users\vinicius.pinhal\Desktop\Curso SENAI\github\FS_14\UC_BACKEND\SA3_ER2\Chapter\Chapter.WebApi\obj\Release\net5.0\ref\Chapter.WebApi.dll

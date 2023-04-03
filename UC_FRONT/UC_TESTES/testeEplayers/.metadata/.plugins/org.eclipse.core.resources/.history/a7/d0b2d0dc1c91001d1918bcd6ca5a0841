@@ -1,0 +1,28 @@
+package testeEPlayersFS14;
+
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TesteLoginEPlayers {
+	private WebDriver driver;
+	
+	@Before
+	public void ConfigurarTeste() {
+		System.setProperty("webdriver.chrome.drive", "C:\\Program Files\\chromedriver");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+	}
+	
+	@Test
+	public void TestarLogin () {
+//		Acessar URL site Eplayers
+		driver.get("http://localhost:4200/#");
+		
+//		Clicar em Login
+		
+//		Testar acessos 
+		
+	}
+}
