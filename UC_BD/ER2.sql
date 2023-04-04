@@ -45,7 +45,7 @@ GO
 
 INSERT INTO Usuarios VALUES ('viniciuspiinhal@gmail.com', 12345678)
 INSERT INTO Classes VALUES ('Barbaro', 'Descricao da classe Mago')
-INSERT INTO Habilidades VALUES ('Lança Mortal', 'Descricao da lanca mortal'),('Escudo Supremo', 'Descricao do Escudo Supremo')
+INSERT INTO Habilidades VALUES ('Lanï¿½a Mortal', 'Descricao da lanca mortal'),('Escudo Supremo', 'Descricao do Escudo Supremo')
 INSERT INTO Personagens VALUES ('Deubug', 1, 1)
 INSERT INTO ClassesHabilidades VALUES (1, 1), (1, 2)
 
