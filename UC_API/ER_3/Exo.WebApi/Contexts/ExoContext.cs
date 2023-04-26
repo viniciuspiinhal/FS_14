@@ -20,8 +20,8 @@ namespace Exo.WebApi.Contexts
             if (!optionsBuilder.IsConfigured)
             {
 
-                optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;" + "User ID=sa;Password=inibirprasubirnogit;"
-                + "Database=ExoApi;Trusted_Connection=True");
+                optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=ExoApi; User ID=sa;Password=substituirparasubirgit;"
++ "Trusted_Connection=False;");
             }
         }
         public DbSet<Projeto> Projetos { get; set; }
